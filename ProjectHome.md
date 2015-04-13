@@ -1,0 +1,1 @@
+To translate OpenClinic to zh\_cn language
